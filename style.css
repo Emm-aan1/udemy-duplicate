@@ -293,6 +293,14 @@ footer .down p {
   .right {
     margin: 0 auto 2%;
   }
+  
+  .middle input{
+    padding: 15px;
+  }
+  
+  .middle i{
+    display: none;
+    }
 
   .right {
     display: flex;
